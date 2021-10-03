@@ -1,5 +1,7 @@
-New Change request for CR1
+New Change request for CR1.
 
-Change to code for feature login in-progress
+Change to code for feature login in-progress.
 
 Change to verify normal push from local master to remote master for WI5.
+
+Change on remote master by team mate for WI6 to check pull.
